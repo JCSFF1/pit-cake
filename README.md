@@ -39,6 +39,6 @@ SEM CONTA:
 
 <h3 align="center">
   
-  :construction: PROJETO ACADEMICO - UNICID :construction:
+  :construction: PROJETO ACADEMICO :construction:
   
 </h3>
